@@ -29,6 +29,3 @@ Esta herramienta CLI (interfaz de línea de comandos) está diseñada para facil
 3. Ejecutar
    ```
    npm install -g checkAttendance
- ```
-
-
